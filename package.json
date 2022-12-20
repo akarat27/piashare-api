@@ -10,7 +10,7 @@
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
-    "cross-env": "^6.0.2"
+    "cross-env": "^6.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
